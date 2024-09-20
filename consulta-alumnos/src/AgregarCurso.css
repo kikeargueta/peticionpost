@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .card {
+    position: relative;
+  }
+  
+  h2 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 3rem;
+  }
+  
+  .form-group input, .form-group textarea {
+    font-size: 1.25rem;
+  }
+  
+  .card p {
+    font-size: 1.25rem;
+  }
+  
+  .btn {
+    font-size: 1.25rem;
+  }
+  
